@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-## Ardison Rubim :sunglasses:
+## I'm Ardison Rubim :sunglasses:
+
+## Connect with me: :iphone:
+
+<a href="https://www.linkedin.com/in/ardison-rubim-b2925b12a/">
+    <img alt="ardison-linkedin" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg"> 
+</a>
 
 <!--
 **ArdisonRubim/ArdisonRubim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
