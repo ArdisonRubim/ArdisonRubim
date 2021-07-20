@@ -5,7 +5,7 @@
 ## Connect with me: :iphone:
 
 <a href="https://www.linkedin.com/in/ardison-rubim-b2925b12a/">
-    <img alt="ardison-linkedin" width="30" height="30" style="max-width: 100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg"> 
+    <img alt="ardison-linkedin" width="60" height="60" style="max-width: 100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg"> 
 </a>
 
 <!--
