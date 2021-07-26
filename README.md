@@ -8,7 +8,7 @@
     <img alt="ardison-linkedin" width="80" height="80" style="max-width: 100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> 
 </a>
 
-<a href="https://api.whatsapp.com/send?phone=5598989114760&text=Ol%C3%A1,%20acessei%20seu%20WhatsLink%20atrav%C3%A9s%20do%20GitHub">
+<a href="https://api.whatsapp.com/send?phone=5598984976673&text=Ol%C3%A1,%20acessei%20seu%20WhatsLink%20atrav%C3%A9s%20do%20GitHub">
     <img  width="80" height="80" style="max-width: 100%;" src="https://img.icons8.com/color/48/000000/nokia-3310.png"/>
 </a>
 
