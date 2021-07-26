@@ -9,7 +9,7 @@
 </a>
 
 <a href="https://api.whatsapp.com/send?phone=5598984976673&text=Ol%C3%A1,%20acessei%20seu%20GitHub%20Podemos%20conversa%20?">
-    <img  width="80" height="80" style="max-width: 100%;" src="https://img.icons8.com/color/48/000000/nokia-3310.png"/>
+    <img  width="60" height="70" style="max-width: 100%;" src="https://img.icons8.com/color/48/000000/nokia-3310.png"/>
 </a>
 
 ## My Skills: :desktop_computer:
